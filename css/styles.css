@@ -34,6 +34,10 @@ article{
   margin: 0 auto;
 }
 
+.recipe-image {
+  max-width :300px;
+}
+
 /* ========== typography ========== */
 h1{
   margin: 0 0 10px;
